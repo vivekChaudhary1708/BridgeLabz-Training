@@ -1,0 +1,10 @@
+import java.util.*;
+class CircleArea{
+    public static void main(String[] args){
+        float pi = 3.14;
+        Scanner sc = new Scanner(System.in);
+        int r = sc.nextInt();
+        float area = pi*r*r;
+        System.out.print(area);
+    }
+}
