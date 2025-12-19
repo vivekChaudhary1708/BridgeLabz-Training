@@ -3,7 +3,7 @@
 This repository serves as a **learning workspace for my BridgeLabz Training**, focused on building a strong foundation in **Git & GitHub, Core Java programming, and logical problem solving**.  
 It documents my **day-wise learning progress**, hands-on practice, and structured code organization.
 
----
+
 
 ## 📂 Folder Structure
 
@@ -16,22 +16,14 @@ BridgeLabz-Training/
 │ └── programming-elements/
 │ ├── Level-1/
 │ ├── Level-2/
-│ ├── control-flows/
-│ │ ├── if-else/
-│ │ ├── switch-case/
-│ │ ├── for-loop/
-│ │ ├── while-loop/
-│ │ └── do-while-loop/
+│ └── control-flows/
 │
 ├── leet-code-codebase/
 │ └── core-java/
 │
 └── README.md
 
-markdown
-Copy code
 
----
 
 ## 🛠️ Phase 1: Basics & Environment Setup
 
@@ -41,7 +33,7 @@ This phase focuses on:
 - Maintaining **clean commits & folder hierarchy**
 - Strengthening **Core Java basics and Control Flow concepts**
 
----
+
 
 ## 📅 Day 1 – 16 December
 
@@ -69,7 +61,7 @@ Solved basic Java problems to improve logic and problem-solving skills:
 
 📌 All Java solutions are available inside the **leet-code-codebase** folder.
 
----
+
 
 ## 📅 Day 2 – 17 December
 
@@ -97,7 +89,7 @@ Solved basic Java programs focused on arithmetic operations and formulas:
 
 📌 All programs are available inside **gcr-codebase/programming-elements**.
 
----
+
 
 ## 📅 Day 3 – 18 December
 
@@ -143,7 +135,6 @@ Practiced and implemented **Control Flow programs** including:
 📌 All Control Flow programs are available inside  
 `gcr-codebase/programming-elements/control-flows/`
 
----
 
 ## 🎯 Learning Outcomes
 
