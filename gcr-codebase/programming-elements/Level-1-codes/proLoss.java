@@ -9,7 +9,7 @@
 // The Profit is INR ___ and the Profit Percentage is ___
 
 
-class proLoss{
+class ProLoss{
     public static void main(String[] args) {
         int costPrice = 129;
         int sellingPrice = 191;

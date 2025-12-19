@@ -4,7 +4,7 @@
 // O/P => The length of the side is ___ whose perimeter is ____
 
 import java.util.Scanner;
-public class sqare_Side {   
+public class Square_Side {   
     public static void main(String[] args) {
         // Create Scanner object to take user input
         Scanner input = new Scanner(System.in);

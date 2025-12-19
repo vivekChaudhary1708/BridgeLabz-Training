@@ -5,7 +5,7 @@
 // I/P => NONE
 // O/P => The Pen Per Student is ___ and the remaining pen not distributed is ___
 
-public class pens {
+public class Pens {
     public static void main(String[] args) {
         int totalPens = 14;
         int totalStudents = 3;

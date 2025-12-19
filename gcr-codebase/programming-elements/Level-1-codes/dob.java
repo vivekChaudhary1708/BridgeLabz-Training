@@ -1,4 +1,4 @@
-class dob{
+class Dob{
     public static void main(String[] args){
         int dob =2000;
         int currentyear=2024;

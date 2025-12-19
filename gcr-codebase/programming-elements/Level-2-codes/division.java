@@ -4,7 +4,7 @@
 // O/P => The Quotient is ___ and Reminder is ___ of two number ___ and ___
 
 import java.util.Scanner;
-public class division {   
+public class Division {   
     public static void main(String[] args) {
         // Create Scanner object to take user input
         Scanner input = new Scanner(System.in);

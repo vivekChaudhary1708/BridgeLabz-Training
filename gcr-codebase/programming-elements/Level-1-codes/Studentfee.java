@@ -8,7 +8,7 @@
 // O/P => The discount amount is INR ___ and final discounted fee is INR ___
 
 import java.util.Scanner;
-public class Studentfee {
+public class StudentFee {
     public static void main(String[] args) {
         // Create Scanner object to take user input
         Scanner input = new Scanner(System.in);

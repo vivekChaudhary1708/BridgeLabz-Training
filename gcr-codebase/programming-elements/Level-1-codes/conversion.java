@@ -8,7 +8,7 @@
 // O/P => The total miles is ___ mile for the given ___ km
 
 import java.util.Scanner;
-public class conversion {
+public class Conversion {
     public static void main(String[] args) {
         double km;
         // Scanner object to take input from user

@@ -3,7 +3,7 @@
 // I/P => NONE
 // O/P => The distance  ___ km in miles is ___
 
-public class distance {
+public class Distance {
     public static void main(String[] args) {
         double kilometers = 10.8;
         // kilometer se miles me change karne ke liye kilometer ko 1.6 se divide karenge

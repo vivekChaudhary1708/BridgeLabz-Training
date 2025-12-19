@@ -2,7 +2,7 @@
 // I/P => NONE
 // O/P => Sam’s average mark in PCM is ___
 
-public class marks{
+public class Marks{
     public static void main(String[] args) {
         int maths = 94;
         int physics = 95;

@@ -4,7 +4,7 @@
 // O/P => Your Height in cm is ___ while in feet is ___ and inches is ___
 
 import java.util.Scanner;
-public class height {   
+public class Height {   
     public static void main(String[] args) {
         // Create Scanner object to take user input
         Scanner input = new Scanner(System.in);
