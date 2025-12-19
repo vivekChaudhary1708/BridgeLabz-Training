@@ -4,7 +4,7 @@
 // O/P => The distance in yards is ___ while the distance in miles is ___
 
 import java.util.Scanner;
-public class Yards_distance {   
+public class YardsDistance {   
     public static void main(String[] args) {
         // Create Scanner object to take user input
         Scanner input = new Scanner(System.in);
