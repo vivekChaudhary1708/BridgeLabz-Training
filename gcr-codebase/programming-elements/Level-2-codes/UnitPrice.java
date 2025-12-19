@@ -4,7 +4,7 @@
 // O/P => The total purchase price is INR ___ if the quantity ___ and unit price is INR ___
 
 import java.util.Scanner;
-public class Unit_price {   
+public class UnitPrice {   
     public static void main(String[] args) {
         // Create Scanner object to take user input
         Scanner input = new Scanner(System.in);
