@@ -11,17 +11,25 @@ The repository is organized in a modular and clean way.
 Currently, all foundational Core Java work resides in the **core-java-practice** branch.
 
 BridgeLabz-Training/
+│
 ├── core-java-practice/
-│ └── gcr-codebase/
-│ └── programming-elements/
-│ ├── Level-1-codes/
-│ ├── Level-2-codes/
-│ └── control-flows/
+│   │
+│   └── gcr-codebase/
+│       │
+│       └── programming-elements/
+│           │
+│           ├── Level-1-codes/
+│           │
+│           ├── Level-2-codes/
+│           │
+│           └── control-flows/
 │
 ├── leet-code-codebase/
-│ └── core-java/
+│
+├── core-java/
 │
 └── README.md
+
 
 
 
