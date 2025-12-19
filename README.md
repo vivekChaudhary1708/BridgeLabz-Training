@@ -14,8 +14,8 @@ BridgeLabz-Training/
 ├── core-java-practice/
 │ └── gcr-codebase/
 │ └── programming-elements/
-│ ├── Level-1/
-│ ├── Level-2/
+│ ├── Level-1-codes/
+│ ├── Level-2-codes/
 │ └── control-flows/
 │
 ├── leet-code-codebase/
