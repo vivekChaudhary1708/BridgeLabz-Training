@@ -10,10 +10,12 @@ public class Yards_distance {
         Scanner input = new Scanner(System.in);
         
         System.out.print("Enter distance in feet: ");
+
         double distanceInFeet = input.nextDouble();
         
         // Convert feet to yards
         double distanceInYards = distanceInFeet / 3;
+        
         // Convert yards to miles
         double distanceInMiles = distanceInYards / 1760;
 

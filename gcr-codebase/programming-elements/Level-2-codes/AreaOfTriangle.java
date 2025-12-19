@@ -4,7 +4,7 @@
 // O/P => The Area of the triangle in sq in is ___ and sq cm is ___
 
 import java.util.Scanner;
-public class Area_of_Triangle {   
+public class AreaOfTriangle {   
     public static void main(String[] args) {
         // Create Scanner object to take user input
         Scanner input = new Scanner(System.in);
