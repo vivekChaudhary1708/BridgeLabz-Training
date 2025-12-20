@@ -14,24 +14,23 @@ Currently, all foundational Core Java work resides in the **core-java-practice**
 
 ```
 BridgeLabz-Training/
-│
-├── core-java-practice/
-│   │
-│   └── gcr-codebase/
-│       │
-│       └── programming-elements/
-│           │
-│           ├── Level-1-codes/
-│           │
-│           ├── Level-2-codes/
-│           │
-│           └── control-flows/
-│
-├── leet-code-codebase/
-│
-├── core-java/
-│
-└── README.md
+|
++-- core-java-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- programming-elements/
+|   |   |
+|   |   +-- control-flow/
+|   |   |
+|   |   +-- arrays/
+|   |
+|   +-- leet-code-codebase/
+|   |
+|   +-- scenario-based/
+|
++-- README.md
+
 ```
 
 
@@ -147,6 +146,59 @@ Practiced and implemented **Control Flow programs** including:
 
 📌 All Control Flow programs are available inside  
 `gcr-codebase/programming-elements/control-flows/`
+
+
+
+## Day 5 – 20 December
+
+### Core Java – Arrays
+
+Practiced and implemented *Array-based programs* covering fundamental array operations and problem-solving:
+
+*One-Dimensional Arrays:*
+- BMI Array
+- Factors Array
+- FizzBuzz Array
+- Friends Array
+- Mean Height Calculation
+- Multiplication Table Array
+- Multiplication Table Range
+- Number Check Array
+- Odd Even Array
+- Reverse Number Array
+- Store Sum Array
+- Student Grade Array
+- Vote Check Array
+- Zara Bonus Calculation
+
+*Two-Dimensional Arrays (Matrices):*
+- BMI Matrix
+- Copy 2D to 1D Array
+- Student Grade Matrix
+
+*Advanced Array Operations:*
+- Digit Frequency
+- Digit Maximum (Multiple approaches)
+
+> 📁 All Array programs are available inside gcr-codebase/arrays*.*
+
+
+
+
+### Core Java – Scenario-Based Problems
+
+Solved real-world scenario-based problems to apply Java concepts in practical contexts:
+
+- *BMI Tracker* – Track and calculate BMI for multiple individuals
+- *Coffee Counter* – Manage coffee consumption tracking
+
+> 📁 All scenario-based solutions are available inside the scenario-based folder.
+
+---
+
+
+
+
 
 
 ## 🎯 Learning Outcomes
