@@ -162,7 +162,7 @@ Practiced and implemented **Control Flow programs** including:
 
 ## 👨‍💻 Author
 
-**Vivek Chaudhary**  
+**Vivek Raj**  
 B.Tech Student | Backend & Web Developer  
 Learning Core Java, MERN Stack & DSA  
 
