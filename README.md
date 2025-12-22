@@ -153,7 +153,7 @@ Worked on **array-based problem solving**:
 
 ---
 
-## 📅 Day 6 – 22 December (Today 🔥)
+## 📅 Day 6 – 22 December 
 
 ### 💻 Core Java – Strings
 
