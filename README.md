@@ -15,7 +15,7 @@ Currently, all foundational Core Java work resides in the **core-java-practice**
 ```
 BridgeLabz-Training/
 |
-+-- core-java-practice/(Branch & Folder Name)
++-- core-java-practice/   (Branch & Folder Name)
 |   |
 |   +-- gcr-codebase/
 |   |   |
@@ -24,6 +24,8 @@ BridgeLabz-Training/
 |   |   +-- control-flow/
 |   |   |
 |   |   +-- arrays/
+|   |   |
+|   |   +-- strings/
 |   |
 |   +-- leet-code-codebase/
 |   |
@@ -31,11 +33,15 @@ BridgeLabz-Training/
 |
 +-- README.md
 
+
 ```
 
 
 
 
+
+
+---
 
 ## 🛠️ Phase 1: Basics & Environment Setup
 
@@ -43,9 +49,9 @@ This phase focuses on:
 - Understanding **Git & GitHub fundamentals**
 - Learning **branch-based development**
 - Maintaining **clean commits & folder hierarchy**
-- Strengthening **Core Java basics and Control Flow concepts**
+- Strengthening **Core Java basics and logic building**
 
-
+---
 
 ## 📅 Day 1 – 16 December
 
@@ -60,7 +66,6 @@ This phase focuses on:
   - `main`
   - `core-java-practice`
 - Learned how commits work and how code is pushed to GitHub  
-- Understood repository structure and folder organization  
 
 ### 💻 Core Java – LeetCode Practice
 Solved basic Java problems to improve logic and problem-solving skills:
@@ -71,9 +76,9 @@ Solved basic Java problems to improve logic and problem-solving skills:
 - ✅ Palindrome Number  
 - ✅ Find Numbers with Even Number of Digits  
 
-📌 All Java solutions are available inside the **leet-code-codebase** folder.
+📌 Solutions available inside **leet-code-codebase**.
 
-
+---
 
 ## 📅 Day 2 – 17 December
 
@@ -83,132 +88,120 @@ Solved basic Java problems to improve logic and problem-solving skills:
 - Used `git status` to track new and modified files  
 - Used `git add`, `git commit`, and `git push` effectively  
 - Improved understanding of **branch-wise commits**  
-- Learned how to manage repository structure properly  
 
 ### 💻 Core Java – Programming Elements
-Solved basic Java programs focused on arithmetic operations and formulas:
+Practiced basic Java programs:
 
-- ✅ Add Two Numbers  
-- ✅ Area of Circle  
-- ✅ Average of Three Numbers  
-- ✅ Celsius to Fahrenheit Conversion  
-- ✅ Kilometers to Miles Conversion  
-- ✅ Perimeter of Rectangle  
-- ✅ Power Calculation  
-- ✅ Simple Interest  
-- ✅ Volume of Cylinder  
-- ✅ Welcome to BridgeLabz Program  
+- Add Two Numbers  
+- Area of Circle  
+- Average of Numbers  
+- Temperature Conversion  
+- Unit Conversions  
+- Simple Interest  
+- Power Calculation  
+- Volume & Perimeter programs  
 
-📌 All programs are available inside **gcr-codebase/programming-elements**.
+📌 Available inside **gcr-codebase/programming-elements**.
 
-
+---
 
 ## 📅 Day 3 – 18 December
 
-### 🔧 Git & GitHub
-- Continued practicing Git & GitHub commands  
-- Created and organized folders for structured learning  
-- Added programs into **Level 1, Level 2, and Control Flow** folders  
-- Tracked file changes using `git status`  
-- Committed and pushed code using:
-  - `git add`
-  - `git commit`
-  - `git push`
-- Improved understanding of:
-  - Clean commits  
-  - Folder hierarchy  
-  - Structured repositories  
+### 💻 Core Java – Control Flow Statements
+Practiced decision-making and looping constructs:
 
-### 💻 Core Java – Programming Elements
-
-#### ✅ Level 1 (Basic Knowledge)
-- User input handling  
-- Variables and data types  
-- Basic arithmetic operations  
-- Applying simple formulas  
-- Improving logical thinking  
-
-#### ✅ Level 2 (Further Problem Solving)
-- Operator precedence  
-- Combining multiple operations  
-- Logical expressions  
-- Writing structured and optimized code  
-
-#### ✅ Control Flow Statements (Today’s Focus 🔥)
-Practiced and implemented **Control Flow programs** including:
-
-- if–else statements  
+- if–else  
 - switch–case  
 - for loop  
 - while loop  
 - do–while loop  
-- Conditional logic & decision making  
 
-📌 All Control Flow programs are available inside  
-`gcr-codebase/programming-elements/control-flows/`
-
-
-
-## Day 5 – 20 December
-
-### Core Java – Arrays
-
-Practiced and implemented *Array-based programs* covering fundamental array operations and problem-solving:
-
-*One-Dimensional Arrays:*
-- BMI Array
-- Factors Array
-- FizzBuzz Array
-- Friends Array
-- Mean Height Calculation
-- Multiplication Table Array
-- Multiplication Table Range
-- Number Check Array
-- Odd Even Array
-- Reverse Number Array
-- Store Sum Array
-- Student Grade Array
-- Vote Check Array
-- Zara Bonus Calculation
-
-*Two-Dimensional Arrays (Matrices):*
-- BMI Matrix
-- Copy 2D to 1D Array
-- Student Grade Matrix
-
-*Advanced Array Operations:*
-- Digit Frequency
-- Digit Maximum (Multiple approaches)
-
-> 📁 All Array programs are available inside gcr-codebase/arrays*.*
-
-
-
-
-### Core Java – Scenario-Based Problems
-
-Solved real-world scenario-based problems to apply Java concepts in practical contexts:
-
-- *BMI Tracker* – Track and calculate BMI for multiple individuals
-- *Coffee Counter* – Manage coffee consumption tracking
-
-> 📁 All scenario-based solutions are available inside the scenario-based folder.
+📌 Available inside  
+`gcr-codebase/control-flow/`
 
 ---
 
+## 📅 Day 5 – 20 December
 
+### 💻 Core Java – Arrays
 
+Worked on **array-based problem solving**:
 
+#### One-Dimensional Arrays
+- BMI Array  
+- Factors Array  
+- FizzBuzz  
+- Friends Array  
+- Mean Height  
+- Multiplication Tables  
+- Odd–Even Check  
+- Reverse Number  
+- Student Grade  
+- Voting Eligibility  
+- Bonus Calculation  
 
+#### Two-Dimensional Arrays
+- BMI Matrix  
+- Student Grade Matrix  
+- Copy 2D to 1D  
+
+#### Advanced Array Problems
+- Digit Frequency  
+- Largest & Second Largest Digit  
+
+📌 All programs available inside **gcr-codebase/arrays/**.
+
+---
+
+## 📅 Day 6 – 22 December (Today 🔥)
+
+### 💻 Core Java – Strings
+
+Practiced **extensive String manipulation programs**, focusing on logic building using `charAt()`, loops, arrays, and exception handling.
+
+#### Topics Covered:
+- String comparison without `equals()`
+- String length without `length()`
+- Substring creation using `charAt()`
+- Uppercase & Lowercase conversion (manual vs built-in)
+- Trimming spaces without `trim()`
+- Splitting text into words manually
+- Finding shortest & longest words
+- Vowel & consonant detection
+- Character frequency (multiple approaches)
+- Unique characters
+- First non-repeating character
+- Palindrome check (iterative, recursive, array-based)
+- Anagram check
+- String-based Runtime Exceptions:
+  - `NullPointerException`
+  - `StringIndexOutOfBoundsException`
+  - `IllegalArgumentException`
+  - `NumberFormatException`
+
+📌 All string programs are available inside **gcr-codebase/strings/**.
+
+---
+
+## 💻 Core Java – Scenario-Based Problems
+
+Solved real-world problems:
+
+- **BMI Tracker**  
+- **Coffee Counter**  
+
+📌 Available inside **scenario-based/** folder.
+
+---
 
 ## 🎯 Learning Outcomes
 
 - Strong foundation in **Git & GitHub**
 - Clear understanding of **branch-based workflows**
 - Improved **Core Java fundamentals**
-- Hands-on practice with **Control Flow statements**
-- Better **logic building & problem-solving skills**
-- Clean and professional **code organization**
+- Strong **logic building using Arrays & Strings**
+- Confidence with **exception handling**
+- Clean, modular, and professional **repository structure**
 
 ---
 
@@ -223,6 +216,11 @@ Learning Core Java, MERN Stack & DSA
 ---
 
 ## ☕ Keep Learning
+
+Consistency + Practice = Growth 🚀  
+This repository will continue to evolve as I progress further in my BridgeLabz journey.
+
+**Keep Learning & Keep Building!**
 
 Consistency + Practice = Growth 🚀  
 This repository will continue to evolve as I progress further in my BridgeLabz journey.
