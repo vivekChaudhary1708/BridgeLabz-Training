@@ -26,12 +26,15 @@ BridgeLabz-Training/
 |   |   +-- arrays/
 |   |   |
 |   |   +-- strings/
+|   |   |
+|   |   +-- methods/
 |   |
 |   +-- leet-code-codebase/
 |   |
 |   +-- scenario-based/
 |
 +-- README.md
+
 
 
 ```
@@ -204,6 +207,23 @@ Solved real-world problems:
 - Clean, modular, and professional **repository structure**
 
 ---
+
+
+
+## 🧩 Core Java – Methods-Based Problems
+
+Logic-focused programs implemented using **Java methods** for clean and reusable code:
+- Number & Digit Utility Programs  
+- Factor & Mathematical Operations  
+- Matrix Operations (Addition, Transpose, Determinant, Inverse)  
+- Student & Voting Checkers  
+- Real-life Utilities (OTP Generator, Interest Calculator, Unit Converter)
+
+📌 Available inside **methods/** folder.
+
+---
+
+
 
 ## 👨‍💻 Author
 
