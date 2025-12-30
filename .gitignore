@@ -1,4 +1,5 @@
-# Ignore practice folders
-gcr-codebase/
-leet-code-codebase/
-scenario-based/
+# Ignore only core-java-practice folders
+/core-java-practice/gcr-codebase/
+/core-java-practice/leet-code-codebase/
+/core-java-practice/scenario-based/
+
