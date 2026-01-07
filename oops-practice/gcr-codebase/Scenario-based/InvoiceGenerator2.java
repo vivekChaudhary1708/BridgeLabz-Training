@@ -1,8 +1,7 @@
-public class InvoiceGenerator {
+public class InvoiceGenerator2 {
 
     // Method to split invoice string into tasks
     static String[] parseInvoice2(String input) {
-        // Split by comma
         return input.split(",");
     }
 
@@ -11,13 +10,9 @@ public class InvoiceGenerator {
         int total = 0;
 
         for (String task : tasks) {
-            // Split task name and amount
             String[] parts = task.split("-");
 
-            // Extract amount part like "3000 INR"
             String amountPart = parts[1].trim();
-
-            // Remove non-numeric characters
             String amountStr = amountPart.replaceAll("[^0-9]", "");
 
             int amount = Integer.parseInt(amountStr);
@@ -32,7 +27,8 @@ public class InvoiceGenerator {
 
         String input = "Logo Design - 3000 INR, Web Page - 4500 INR";
 
-        String[] tasks = parseInvoice(input);
+        // ✅ method name fixed here
+        String[] tasks = parseInvoice2(input);
 
         System.out.println("Invoice Details:");
         for (String task : tasks) {
