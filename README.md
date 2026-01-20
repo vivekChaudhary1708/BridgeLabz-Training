@@ -1,7 +1,9 @@
-# 🚀 BridgeLabz-Training
+# 🚀 Daily Progress Log – BridgeLabz Training
 
-This repository serves as a **learning workspace for my BridgeLabz Training**, focused on building a strong foundation in **Git & GitHub, Core Java programming, and logical problem solving**.  
-It documents my **day-wise learning progress**, hands-on practice, and structured code organization.
+This repository documents the day-wise progress of tasks completed during the BridgeLabz Training Program.
+Tasks are organized week-wise with thematic headings, detailing the work accomplished on each date.
+
+🔗 Repo Link: https://github.com/vivekChaudhary1708/BridgeLabz-Training
 
 
 
@@ -13,27 +15,57 @@ Currently, all foundational Core Java work resides in the **core-java-practice**
 
 
 ```
-BridgeLabz-Training/
-|
-+-- core-java-practice/   (Branch & Folder Name)
-|   |
-|   +-- gcr-codebase/
-|   |   |
-|   |   +-- programming-elements/
-|   |   |
-|   |   +-- control-flow/
-|   |   |
-|   |   +-- arrays/
-|   |   |
-|   |   +-- strings/
-|   |   |
-|   |   +-- methods/
-|   |
-|   +-- leet-code-codebase/
-|   |
-|   +-- scenario-based/
-|
-+-- README.md
+📂 BridgeLabz-Training/
+│
+├── 📁 core-java-practice/
+│   │
+│   ├── 📁 gcr-codebase/
+│   │   ├── 💻 programming-elements/
+│   │   ├── 💻 control-flow/
+│   │   ├── 💻 arrays/
+│   │   ├── 💻 strings/
+│   │   ├── 💻 methods/
+│   │   └── 💻 built-in-functions/
+│   │
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based/
+│
+├── 📁 oops-practice/
+│   │
+│   ├── 📁 gcr-codebase/
+│   │   ├── 💻 address-book-system/
+│   │   ├── 💻 class-and-object/
+│   │   ├── 💻 keyword-and-instance-of-object/
+│   │   ├── 💻 object-modelling/
+│   │   ├── 💻 oops-pillars/
+│   │   └── 💻 constructor-and-access-modifier/
+│   │
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based/
+│
+├── 📁 dsa-practice/
+│   │
+│   ├── 📁 gcr-codebase/
+│   │   ├── 💻 stack-queue-hashmap/
+│   │   ├── 💻 runtime-analysis/
+│   │   ├── 💻 search-strings-filereader/
+│   │   ├── 💻 sorting/
+│   │   └── 💻 linkedlist/
+│   │
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based/
+│
+├── 📁 collections-practice/
+│   │
+│   ├── 📁 gcr-codebase/
+│   │   └── 💻 generics/
+│   │
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based/
+│
+├── 📁 reviews/
+└── 📄 README.md
+
 
 
 
@@ -46,203 +78,178 @@ BridgeLabz-Training/
 
 ---
 
-## 🛠️ Phase 1: Basics & Environment Setup
+## 🗓 Week 1: Git, GitHub & Core Java Fundamentals
+📅 16-Dec-2025 (Tuesday)
 
-This phase focuses on:
-- Understanding **Git & GitHub fundamentals**
-- Learning **branch-based development**
-- Maintaining **clean commits & folder hierarchy**
-- Strengthening **Core Java basics and logic building**
+Version Control & Problem Solving Foundations
 
----
+Successfully set up GitHub repository and connected VS Code
 
-## 📅 Day 1 – 16 December
+Mastered fundamental Git commands: git add, git commit, git push
 
-### 🔧 Git & GitHub
-- Created GitHub repository and linked it with VS Code  
-- Learned basic Git commands:
-  - `git add`
-  - `git commit`
-  - `git push`
-- Understood the purpose of **version control & repositories**
-- Worked with branches:
-  - `main`
-  - `core-java-practice`
-- Learned how commits work and how code is pushed to GitHub  
+Explored version control concepts & branch workflows
 
-### 💻 Core Java – LeetCode Practice
-Solved basic Java problems to improve logic and problem-solving skills:
+Solved foundational Core Java problems to strengthen logic
 
-- ✅ Two Sum  
-- ✅ Running Sum of 1D Array  
-- ✅ Richest Customer Wealth  
-- ✅ Palindrome Number  
-- ✅ Find Numbers with Even Number of Digits  
-
-📌 Solutions available inside **leet-code-codebase**.
+🔗 View Solutions:
+https://github.com/vivekChaudhary1708/BridgeLabz-Training
 
 ---
 
-## 📅 Day 2 – 17 December
+📅 17-Dec-2025 (Wednesday)
 
-### 🔧 Git & Git Bash
-- Practiced Git Bash commands  
-- Understood complete Git workflow  
-- Used `git status` to track new and modified files  
-- Used `git add`, `git commit`, and `git push` effectively  
-- Improved understanding of **branch-wise commits**  
+Git Workflow Mastery & Programming Elements
 
-### 💻 Core Java – Programming Elements
-Practiced basic Java programs:
+Deepened understanding of Git workflows
 
-- Add Two Numbers  
-- Area of Circle  
-- Average of Numbers  
-- Temperature Conversion  
-- Unit Conversions  
-- Simple Interest  
-- Power Calculation  
-- Volume & Perimeter programs  
+Used git status for tracking changes
 
-📌 Available inside **gcr-codebase/programming-elements**.
+Improved commit quality and branch management
 
----
+Completed Programming Elements solutions in Core Java
 
-## 📅 Day 3 – 18 December
+🔗 View Solutions:
+https://github.com/vivekChaudhary1708/BridgeLabz-Training 
 
-### 💻 Core Java – Control Flow Statements
-Practiced decision-making and looping constructs:
+📅 18-Dec-2025 (Thursday)
 
-- if–else  
-- switch–case  
-- for loop  
-- while loop  
-- do–while loop  
+Repository Architecture & Problem Solving
 
-📌 Available inside  
-`gcr-codebase/control-flow/`
+Designed clean folder structure
 
----
+Practiced clean commits and hierarchical layout
 
-## 📅 Day 5 – 20 December
+Solved Level 1 & 2 Java problems
 
-### 💻 Core Java – Arrays
+🔗 View Solutions:
+https://github.com/vivekChaudhary1708/BridgeLabz-Training
 
-Worked on **array-based problem solving**:
+📅 19-Dec-2025 (Friday)
 
-#### One-Dimensional Arrays
-- BMI Array  
-- Factors Array  
-- FizzBuzz  
-- Friends Array  
-- Mean Height  
-- Multiplication Tables  
-- Odd–Even Check  
-- Reverse Number  
-- Student Grade  
-- Voting Eligibility  
-- Bonus Calculation  
+Control Flow Implementation
 
-#### Two-Dimensional Arrays
-- BMI Matrix  
-- Student Grade Matrix  
-- Copy 2D to 1D  
+Applied conditional logic (if-else, switch)
 
-#### Advanced Array Problems
-- Digit Frequency  
-- Largest & Second Largest Digit  
+Loops practice (for, while, do-while)
 
-📌 All programs available inside **gcr-codebase/arrays/**.
+Solved multiple Control Flow problems
 
----
+🔗 View Solutions:
+https://github.com/vivekChaudhary1708/BridgeLabz-Training
 
-## 📅 Day 6 – 22 December 
+📅 20-Dec-2025 (Saturday)
 
-### 💻 Core Java – Strings
+Arrays & 2D Arrays
 
-Practiced **extensive String manipulation programs**, focusing on logic building using `charAt()`, loops, arrays, and exception handling.
+Explored arrays and multi-dimensional structures
 
-#### Topics Covered:
-- String comparison without `equals()`
-- String length without `length()`
-- Substring creation using `charAt()`
-- Uppercase & Lowercase conversion (manual vs built-in)
-- Trimming spaces without `trim()`
-- Splitting text into words manually
-- Finding shortest & longest words
-- Vowel & consonant detection
-- Character frequency (multiple approaches)
-- Unique characters
-- First non-repeating character
-- Palindrome check (iterative, recursive, array-based)
-- Anagram check
-- String-based Runtime Exceptions:
-  - `NullPointerException`
-  - `StringIndexOutOfBoundsException`
-  - `IllegalArgumentException`
-  - `NumberFormatException`
+Solved array manipulation challenges
 
-📌 All string programs are available inside **gcr-codebase/strings/**.
+Applied arrays to real-world tasks
 
----
+🔗 View Solutions:
+https://github.com/vivekChaudhary1708/BridgeLabz-Training
 
-## 💻 Core Java – Scenario-Based Problems
+🗓 Week 2: Advanced Core Java Concepts
+📅 22-Dec-2025 (Monday)
 
-Solved real-world problems:
+Strings & Module Review
 
-- **BMI Tracker**  
-- **Coffee Counter**  
+Mastered Java String operations
 
-📌 Available inside **scenario-based/** folder.
+Practiced concatenation, substring, pattern matching
 
----
+Participated in comprehensive review
 
-## 🎯 Learning Outcomes
+🔗 View Solutions:
+https://github.com/vivekChaudhary1708/BridgeLabz-Training
 
-- Strong foundation in **Git & GitHub**
-- Clear understanding of **branch-based workflows**
-- Improved **Core Java fundamentals**
-- Strong **logic building using Arrays & Strings**
-- Confidence with **exception handling**
-- Clean, modular, and professional **repository structure**
+📅 23-Dec-2025 (Tuesday)
 
----
+Exception Handling & Scenarios
 
+Implemented try-catch and custom exceptions
 
+Solved real-world Core Java scenarios
 
-## 🧩 Core Java – Methods-Based Problems
+🔗 View Solutions:
+https://github.com/vivekChaudhary1708/BridgeLabz-Training
 
-Logic-focused programs implemented using **Java methods** for clean and reusable code:
-- Number & Digit Utility Programs  
-- Factor & Mathematical Operations  
-- Matrix Operations (Addition, Transpose, Determinant, Inverse)  
-- Student & Voting Checkers  
-- Real-life Utilities (OTP Generator, Interest Calculator, Unit Converter)
+📅 24-Dec-2025 (Wednesday)
 
-📌 Available inside **methods/** folder.
+Methods & Math Functions
 
----
+Developed reusable methods
 
+Practiced Math class functions
 
+Solved method-based problems
 
-## 👨‍💻 Author
+🔗 View Solutions:
+https://github.com/vivekChaudhary1708/BridgeLabz-Training
 
-**Vivek Raj**  
-B.Tech Student | Backend & Web Developer  
-Learning Core Java, MERN Stack & DSA  
+📅 26-Dec-2025 (Friday)
 
-🔗 GitHub: https://github.com/vivekChaudhary1708
+Built-In Functions & Revision
 
----
+Explored Java built-in utilities
 
-## ☕ Keep Learning
+Solved scenario-based problems
 
-Consistency + Practice = Growth 🚀  
-This repository will continue to evolve as I progress further in my BridgeLabz journey.
+Conducted full revision of core concepts
 
-**Keep Learning & Keep Building!**
+🔗 View Solutions:
+https://github.com/vivekChaudhary1708/BridgeLabz-Training
 
-Consistency + Practice = Growth 🚀  
-This repository will continue to evolve as I progress further in my BridgeLabz journey.
+🗓 Week 3: Object-Oriented Programming (OOP)
+📅 29-Dec-2025 – 03-Jan-2026
 
-**Keep Learning & Keep Building!**
+OOP Concepts & UML
+
+Practiced Classes, Objects, Constructors
+
+Used inheritance & access modifiers
+
+Built UML diagrams
+
+Solved real-world scenario problems
+
+🔗 View Solutions:
+https://github.com/vivekChaudhary1708/BridgeLabz-Training
+
+🗓 Week 4: OOPs & DSA Fundamentals
+📅 05-Jan-2025 – 17-Jan-2025
+
+Encapsulation, Polymorphism & DSA LinkedList
+
+Implemented OOP fundamentals
+
+Practiced LinkedList (All Types)
+
+Solved Stack, Queue & HashMap problems
+
+🔗 View Solutions:
+https://github.com/vivekChaudhary1708/BridgeLabz-Training
+
+🗓 Week 5: DSA & Collections
+📅 19-Jan-2026
+
+Runtime Analysis & DSA Practice
+
+Solved scenario-based DSA problems
+
+Strengthened logical reasoning
+
+🔗 View Solutions:
+https://github.com/vivekChaudhary1708/BridgeLabz-Training
+
+📅 20-Jan-2026
+
+Generics & Advanced DSA
+
+Practiced Generics in Collections
+
+Solved DSA challenges with real-world use
+
+🔗 View Solutions:
+https://github.com/vivekChaudhary1708/BridgeLabz-Training
