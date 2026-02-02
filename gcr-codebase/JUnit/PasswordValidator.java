@@ -14,3 +14,4 @@ public class PasswordValidator {
         return hasUpper && hasDigit;
     }
 }
+    
